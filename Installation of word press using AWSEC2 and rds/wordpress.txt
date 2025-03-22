@@ -1,0 +1,14 @@
+admin
+8220063372
+
+
+
+define('DB_NAME', 'database-wp');
+define('DB_USER', 'admin');
+define('DB_PASSWORD', '12345678');
+define('DB_HOST', 'database-wp.c9i2oemcmvh1.ap-southeast-2.rds.amazonaws.com');
+
+
+
+/** MySQL hostname */
+define('DB_HOST', 'database-wp.c9i2oemcmvh1.ap-southeast-2.rds.amazonaws.com');
